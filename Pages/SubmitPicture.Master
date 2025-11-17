@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SubmitPicture.master.cs" Inherits="Thr_fty.Pages.SubmitPicture" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder></title>
+    <link href="../Styles/MainStyleSheet.css" rel="stylesheet" />
+    <link href="../Styles/SubmitPicture.css" rel="stylesheet" />
+     <link href="../Styles/SignLog.css" rel="stylesheet" />
+    <link href="../Styles/Nko.css" rel="stylesheet" />
+     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+   
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+         <header>
+            <img id="LogoImg" src="../Images/SGN_08_06_2023_1691332525017-removebg-preview.png" />
+            
+        </header>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+       
+        
+    </form>
+</body>
+</html>

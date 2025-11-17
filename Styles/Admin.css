@@ -1,0 +1,108 @@
+﻿*{
+    /*border:1px solid grey;*/
+    margin:0;
+    padding:0;
+}
+/*Classes used*/
+.CenterText {
+    text-align: center;
+}
+.CenterDiv{
+    display:flex;
+    justify-content:center;
+}
+.Padding {
+    padding: 1em 0.5em 1em 0.5em;
+}
+html, body, #form1, #menuContent{
+    height:100%;
+    width:100%;
+}
+.Shadow {
+    box-shadow: 0 0.1em 0.1em black;
+}
+.MakeOrange {
+    color: #F8B62D;
+}
+.MakeBold{
+    font-weight:bold;
+}
+.Relative{
+    position:relative;
+}
+.btnClose {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-bottom-left-radius: 20px;
+    padding: 0.5em;
+    font-weight: bold;
+}
+.DropFluff {
+    border: 3px solid #F8B62D;
+    color: #F8B62D;
+    margin: 0.1em;
+    text-align: center;
+    border-radius: 10px;
+}
+#form1{
+    position:relative;
+}
+/*Everything stop bdo with thead header*/
+header {
+    position:fixed;
+    top:0;
+    background-color: white;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75em;
+    box-shadow: 0 0.1em 0.5em black;
+    z-index: 1000;
+}
+#LogoImg {
+    width: 175px;
+}
+/*All to do with menu and content*/
+#menuContent{
+    position:relative;
+    display: flex;
+}
+/*Focusing on the menu*/
+#menu {
+    position: fixed;
+    width: 25%;
+    height: 100%;
+    top: 0;
+    background-color: #F8B62D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MenuItems {
+    padding: 0.5em;
+    font-weight: bolder;
+    font-size: medium;
+    color: white;
+}
+/*Focusing on the content of the menu*/
+#content {
+    background-color: grey;
+    position: sticky;
+    width: 75%;
+    margin-left:25%;
+}
+#formCont{
+    background-color: white;
+    margin-top:1em;
+}
+h1 {
+    text-align: center;
+    color: #F7BF4C;
+    padding: 0.25em;
+    margin: 0.25em;
+}

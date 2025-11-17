@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Thr_fty.Pages.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+         <asp:ContentPlaceHolder ID="Title" runat="server"></asp:ContentPlaceHolder>
+    </title>
+    <%--<link href="../Styles/MainStyleSheet.css" rel="stylesheet" />
+    <link href="../Styles/SignLog.css" rel="stylesheet" />
+    <link href="../Styles/Nko.css" rel="stylesheet" />--%>
+    <link href="../Styles/Admin.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <img id="LogoImg" src="../Images/SGN_08_06_2023_1691332525017-removebg-preview.png" />
+        </header>
+        <div id="menuContent">
+            <div id="menu">
+                <asp:Menu ID="Menu1" runat="server" StaticDisplayLevels="2" CssClass="MenuItems" ForeColor="White" Font-Names="Arial">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Admin_User/Index_Admin.aspx" Text="View all sales" Value="Purchases"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Admin_User/BestSellers_Admin.aspx" Text="Best Sellers" Value="PastSales"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Pages/LogIn.aspx" Text="LogOut" Value="LogOut"></asp:MenuItem>
+                    </Items>
+                    <StaticMenuItemStyle HorizontalPadding="0.25em" ItemSpacing="1em" VerticalPadding="0.25em" />
+                </asp:Menu>
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            </div>
+            <div id="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

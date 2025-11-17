@@ -1,0 +1,399 @@
+﻿/**{
+    border:1px solid grey;
+}*/
+.MarginT{
+    margin-top:7em;
+}
+.PChin{
+    padding-bottom:2.5em;
+}
+.Chin{
+    margin-bottom:2.5em;
+}
+.Width75{
+    width:75%;
+}
+.IsFixed{
+    position:fixed;
+    width:100%;
+}
+.FloatRight {
+    float: right;
+}
+.NoFloat{
+    float: none;
+}
+.FloatLeft {
+    float: left;
+}
+.NoLBorder{
+   border: none;
+}
+.Small_margin{
+    margin:0.5em;
+}
+
+.Padding {
+    padding: 1em 0.5em 1em 0.5em;
+}
+
+.MakeGrey {
+    color: dimgray;
+}
+.OrangeBack {
+    background-color: #F8B62D;
+}
+.MakeOrange {
+    color: #F8B62D;
+}
+.CenterText{
+    text-align:center;
+}
+
+.DropFluff {
+    border: 3px solid #F8B62D;
+    color: #F8B62D;
+    margin: 0.1em;
+    text-align: center;
+    border-radius: 10px;
+}
+.margin-cell{
+    margin-top:0.5em;
+}
+.Shadow {
+    box-shadow: 0 0.1em 0.1em black;
+}
+
+#descBacground {
+    background-color: grey;
+}
+
+#descContainer {
+    margin: 3em;
+    background-color: white;
+}
+
+h3 {
+    margin: 0;
+}
+#uploadBorder{
+    border:2px solid grey;
+    padding:0;
+}
+
+#tblFooter {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1em;
+    align-items: center;
+}
+
+#btnCancel {
+    height: 1em;
+}
+
+#progressCont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+}
+
+#p1Details, #p2Details, #p3Details, #p1FirstConnector, #p2FirstConnector, #p3FirstConnector, #p1Picture, #p2Picture, #p3Picture, #p1SecondConnector, #p2SecondConnector, #p3SecondConnector, #p1Price, #p2Price, #p3Price {
+    display: inline-block;
+    margin: 0;
+    width: 30px;
+    height: 30px;
+    border: 2px solid black;
+}
+
+#p1Details, #p2Details, #p3Details, #p1Picture, #p2Picture, #p3Picture, #p1Price, #p2Price, #p3Price {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    padding: 0.1em;
+}
+
+#p1FirstConnector, #p2FirstConnector, #p3FirstConnector, #p1SecondConnector, #p2SecondConnector, #p3SecondConnector {
+    height: 0px;
+    width: 20px;
+    border: 1px solid black;
+}
+
+#p1Details, #p2Picture, #p3Price {
+    background-color: lightgrey;
+}
+
+.Fineprint {
+    font-size: x-small;
+    text-align: center;
+    font-weight: bold;
+}
+/*Main*/
+
+body, html, #form1 {
+    height: 100%;
+}
+
+/*body {
+    margin: 0em 0.25em 0em 0.25em;
+}*/
+
+/*This section is for styling the header*/
+header {
+    background-color: white;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75em;
+    box-shadow: 0 0.1em 0.5em black;
+    z-index: 1000;
+}
+
+#LogoImg {
+    width: 150px;
+}
+
+#cartImg {
+    width: 37px;
+}
+
+/*This section is for styling the menuContent area*/
+#menuContent {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    height: 100%;
+    z-index: 1;
+    overflow: hidden;
+}
+
+#menu {
+    position: sticky;
+    top: 0;
+    flex: 1;
+    display: flex;
+    height: 100%;
+    box-shadow: 0 0.1em 0.5em black;
+    background-color: #F8B62D;
+    flex: 0 0 auto; /* Prevent this section from growing */
+    justify-content: center;
+    align-items: center;
+}
+
+#justDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#Menu1 {
+    width: fit-content;
+}
+
+.MenuItems {
+    padding: 0.5em;
+    font-weight: bolder;
+    font-size: medium;
+    color: white;
+}
+
+#justDiv {
+    padding-top: 5em;
+}
+
+#content {
+    flex: 4;
+    min-height: 100%;
+    display: flex;
+    justify-content: center; /*
+    align-items: center;*/
+    /*max-height: 600px; */ /*  maximum height for scrolling */
+    flex: 1; /* Allow this section to grow and take up remaining space */
+    overflow-y: auto; /* Add vertical scrolling if content exceeds max height */
+    /*padding-top: 210px;*/ /* Add padding to the top */
+    /*padding-bottom: 350px;*/ /* Add padding to the bottom */
+}
+
+#descPrice {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255,255,255,0.5);
+}
+
+.BtnAddToCartHome {
+    font-weight: bolder;
+    font-size: 125%;
+    color: white;
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 35px;
+    height: 35px;
+    border-bottom-left-radius: 15px;
+    background-color: #F8B62D;
+}
+
+#Checker {
+    z-index: 10000;
+}
+/*This section is for displaying the items on offers*/
+#itemContainer {
+    position: relative;
+    margin: 1em;
+    box-shadow: 0 0.1em 0.25em black;
+}
+/*Cart styling*/
+#cartContainer {
+    padding-right: 0.5em;
+    display: flex;
+    align-items: center;
+    margin: 0.25em;
+    box-shadow: 0 0.1em 0.25em black;
+}
+
+.SpaceApart {
+    margin: 0 2.5em 0 2.5em;
+}
+
+#searchCont {
+    padding: 0.125em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 7.5em;
+}
+
+#txtSearch {
+    text-align: center;
+    border: none;
+    background-color: none;
+    height: 30px;
+    border-radius: 7.5em 0 0 7.5em;
+}
+
+#itemCont {
+    display: flex;
+}
+
+#picCont, #btnCont {
+    display: flex;
+    align-items: center;
+}
+
+#itemDetails {
+    display: flex;
+    width: 20em;
+    padding: 0.5em;
+    align-items: center;
+}
+
+.BlackButton {
+    padding: 0.5em;
+    color: white;
+    font-weight: bold;
+    background-color: #070604;
+    border: none;
+    border-radius: 2.5px;
+    height: 2.5em;
+    width: 6.25em;
+}
+
+.OrangeButton {
+    padding: 0.5em;
+    color: white;
+    font-weight: bold;
+    background-color: #F8B62D;
+    border: none;
+    border-radius: 2.5px;
+    height: 2.5em;
+    width: 6.25em;
+}
+
+#detailsCont {
+    display: flex;
+}
+
+#imgDetailsCont, #productDetails {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+#productDetails {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.MakeH1 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 150%;
+    width: fit-content;
+}
+
+.MakeH2, .MakeH3 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 100%;
+    color: #F8B62D;
+    padding-right: 2.5em;
+}
+
+#trivia {
+    margin: 1em 1em 1em 5.25em;
+}
+
+.BlackBoldText {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.imgProduct {
+    margin: 0;
+}
+
+#descCont {
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+}
+/*Styling form submit picture*/
+#Submit {
+    background-color: white;
+}
+#priceCont {
+    display: flex;
+    width: fit-content;
+    box-shadow: 0 0.1em 0.1em black;
+}
+#justTesting {
+    display: flex;
+    width: fit-content;
+    box-shadow: 0 0.1em 0.1em black;
+}
+#pCon{
+    display:flex;
+    justify-content:center;
+}
+#personal_detals_tbl tr{
+    margin-inline:1em;
+}
+#reqCon{
+    display:flex;
+    padding:1em;
+    align-items:center;
+}
+#reqContent{
+
+}
+#reqBtnCont{
+    display:flex;
+}

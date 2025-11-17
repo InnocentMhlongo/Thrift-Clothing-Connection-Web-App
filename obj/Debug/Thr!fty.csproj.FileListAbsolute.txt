@@ -1,0 +1,590 @@
+C:\Users\MY PC\Desktop\Thr!fty\bin\Thr!fty.dll.config
+C:\Users\MY PC\Desktop\Thr!fty\bin\Thr!fty.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\Thr!fty.pdb
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\csc.exe
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\csc.exe.config
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\csc.rsp
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\csi.exe
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\csi.exe.config
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\csi.rsp
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.AppContext.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Console.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.IO.Compression.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Net.Http.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.ValueTuple.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\vbc.exe
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\vbc.exe.config
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\vbc.rsp
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\VBCSCompiler.exe
+C:\Users\MY PC\Desktop\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MY PC\Desktop\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MY PC\Desktop\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MY PC\Desktop\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+C:\Users\MY PC\Desktop\Thr!fty\obj\Debug\Thr!fty.dll
+C:\Users\MY PC\Desktop\Thr!fty\obj\Debug\Thr!fty.pdb
+E:\Thr!fty\bin\Thr!fty.dll.config
+E:\Thr!fty\bin\Thr!fty.dll
+E:\Thr!fty\bin\Thr!fty.pdb
+E:\Thr!fty\bin\roslyn\csc.exe
+E:\Thr!fty\bin\roslyn\csc.exe.config
+E:\Thr!fty\bin\roslyn\csc.rsp
+E:\Thr!fty\bin\roslyn\csi.exe
+E:\Thr!fty\bin\roslyn\csi.exe.config
+E:\Thr!fty\bin\roslyn\csi.rsp
+E:\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Thr!fty\bin\roslyn\System.AppContext.dll
+E:\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+E:\Thr!fty\bin\roslyn\System.Console.dll
+E:\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+E:\Thr!fty\bin\roslyn\System.IO.Compression.dll
+E:\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+E:\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Thr!fty\bin\roslyn\System.Net.Http.dll
+E:\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+E:\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+E:\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Thr!fty\bin\roslyn\System.ValueTuple.dll
+E:\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+E:\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Thr!fty\bin\roslyn\vbc.exe
+E:\Thr!fty\bin\roslyn\vbc.exe.config
+E:\Thr!fty\bin\roslyn\vbc.rsp
+E:\Thr!fty\bin\roslyn\VBCSCompiler.exe
+E:\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+E:\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+E:\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+E:\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+E:\Thr!fty\obj\Debug\Thr!fty.dll
+E:\Thr!fty\obj\Debug\Thr!fty.pdb
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\Thr!fty.dll.config
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\Thr!fty.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\Thr!fty.pdb
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\csc.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\csc.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\csc.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\csi.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\csi.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\csi.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.AppContext.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Console.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.IO.Compression.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Net.Http.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.ValueTuple.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\vbc.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\vbc.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\vbc.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\VBCSCompiler.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\obj\Debug\Thr!fty.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\obj\Debug\Thr!fty.pdb
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\Thr!fty.dll.config
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\Thr!fty.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\Thr!fty.pdb
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\obj\Debug\Thr!fty.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\obj\Debug\Thr!fty.pdb
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\csc.exe
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\csc.exe.config
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\csc.rsp
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\csi.exe
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\csi.exe.config
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\csi.rsp
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.AppContext.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Console.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.IO.Compression.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Net.Http.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.ValueTuple.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\vbc.exe
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\vbc.exe.config
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\vbc.rsp
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\VBCSCompiler.exe
+C:\Users\MY PC\Downloads\Thr!fty\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+E:\New Thrifty\Thr!fty\Thr!fty\bin\Thr!fty.dll.config
+E:\New Thrifty\Thr!fty\Thr!fty\bin\Thr!fty.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\Thr!fty.pdb
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\csc.exe
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\csc.exe.config
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\csc.rsp
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\csi.exe
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\csi.exe.config
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\csi.rsp
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.AppContext.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Console.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.IO.Compression.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Net.Http.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.ValueTuple.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\vbc.exe
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\vbc.exe.config
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\vbc.rsp
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\VBCSCompiler.exe
+E:\New Thrifty\Thr!fty\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+E:\New Thrifty\Thr!fty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New Thrifty\Thr!fty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New Thrifty\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+E:\New Thrifty\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+E:\New Thrifty\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+E:\New Thrifty\Thr!fty\Thr!fty\obj\Debug\Thr!fty.dll
+E:\New Thrifty\Thr!fty\Thr!fty\obj\Debug\Thr!fty.pdb
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\Thr!fty.dll.config
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\Thr!fty.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\Thr!fty.pdb
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\csc.exe
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\csc.exe.config
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\csc.rsp
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\csi.exe
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\csi.exe.config
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\csi.rsp
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.AppContext.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Console.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.IO.Compression.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Net.Http.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.ValueTuple.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\vbc.exe
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\vbc.exe.config
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\vbc.rsp
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\VBCSCompiler.exe
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\obj\Debug\Thr!fty.dll
+C:\Users\MY PC\Desktop\New Thrifty\Thr!fty\obj\Debug\Thr!fty.pdb
+E:\New Thrifty\Thr!fty\bin\Thr!fty.dll.config
+E:\New Thrifty\Thr!fty\bin\Thr!fty.dll
+E:\New Thrifty\Thr!fty\bin\Thr!fty.pdb
+E:\New Thrifty\Thr!fty\bin\roslyn\csc.exe
+E:\New Thrifty\Thr!fty\bin\roslyn\csc.exe.config
+E:\New Thrifty\Thr!fty\bin\roslyn\csc.rsp
+E:\New Thrifty\Thr!fty\bin\roslyn\csi.exe
+E:\New Thrifty\Thr!fty\bin\roslyn\csi.exe.config
+E:\New Thrifty\Thr!fty\bin\roslyn\csi.rsp
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New Thrifty\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.AppContext.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Console.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.IO.Compression.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Net.Http.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.ValueTuple.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\New Thrifty\Thr!fty\bin\roslyn\vbc.exe
+E:\New Thrifty\Thr!fty\bin\roslyn\vbc.exe.config
+E:\New Thrifty\Thr!fty\bin\roslyn\vbc.rsp
+E:\New Thrifty\Thr!fty\bin\roslyn\VBCSCompiler.exe
+E:\New Thrifty\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+E:\New Thrifty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New Thrifty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New Thrifty\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+E:\New Thrifty\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+E:\New Thrifty\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+E:\New Thrifty\Thr!fty\obj\Debug\Thr!fty.dll
+E:\New Thrifty\Thr!fty\obj\Debug\Thr!fty.pdb
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\Thr!fty.dll.config
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\Thr!fty.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\Thr!fty.pdb
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\csc.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\csc.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\csc.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\csi.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\csi.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\csi.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.AppContext.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Console.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.IO.Compression.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Net.Http.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.ValueTuple.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\vbc.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\vbc.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\vbc.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\VBCSCompiler.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\obj\Debug\Thr!fty.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Project_Final\Thr!fty\obj\Debug\Thr!fty.pdb
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\Thr!fty.dll.config
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\Thr!fty.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\Thr!fty.pdb
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\csc.exe
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\csc.exe.config
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\csc.rsp
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\csi.exe
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\csi.exe.config
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\csi.rsp
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.AppContext.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Console.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.IO.Compression.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Net.Http.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.ValueTuple.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\vbc.exe
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\vbc.exe.config
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\vbc.rsp
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\VBCSCompiler.exe
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\obj\Debug\Thr!fty.dll
+C:\Users\MY PC\Desktop\VC\Version 2\Thr!fty\obj\Debug\Thr!fty.pdb
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\Thr!fty.dll.config
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\Thr!fty.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\Thr!fty.pdb
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\csc.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\csc.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\csc.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\csi.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\csi.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\csi.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.AppContext.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Collections.Immutable.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Console.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Globalization.Calendars.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.IO.Compression.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.IO.FileSystem.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Net.Http.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Net.Sockets.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Reflection.Metadata.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.ValueTuple.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XPath.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\vbc.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\vbc.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\vbc.rsp
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\VBCSCompiler.exe
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\roslyn\VBCSCompiler.exe.config
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.AssemblyReference.cache
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.CoreCompileInputs.cache
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\obj\Debug\Thr!fty.csproj.CopyComplete
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\obj\Debug\Thr!fty.dll
+C:\3A-NMU\2'nd Semester\WRRV301\Examples of Project Poster  Video  Slideshow-20231011\Thr!fty\Thr!fty\obj\Debug\Thr!fty.pdb
+C:\3A-NMU\2'nd Semester\WRRV301\Thr!fty\obj\Debug\Thr!fty.csproj.Up2Date

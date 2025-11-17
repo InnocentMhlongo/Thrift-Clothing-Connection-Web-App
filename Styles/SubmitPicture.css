@@ -1,0 +1,25 @@
+﻿#Submit {
+    background-color: white;
+    padding: 10px 4em 4px 4em;
+    margin : 5em 20em 0 20em;
+    box-shadow: 0 0.1em 0.5em black;
+    /*background-position: left;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;*/
+}
+#File
+{
+    margin-right : 10em;
+}
+#Trash
+{
+    margin-left: 17em;
+}
+.File
+{
+    margin-bottom : 5em;
+    margin-top : 5em;
+}

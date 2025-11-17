@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Thr_fty.Pages.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+         <asp:ContentPlaceHolder ID="Title" runat="server"></asp:ContentPlaceHolder>
+    </title>
+    <link href="../Styles/MainStyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <img id="LogoImg" src="../Images/SGN_08_06_2023_1691332525017-removebg-preview.png" />
+            <img id="cartImg" src="../Images/icons8-cart-48.png" />
+        </header>
+        <div id="menuContent">
+            <div id="menu">
+                <asp:Menu ID="Menu1" runat="server" StaticDisplayLevels="2">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Pages/Index.aspx" Text="Check Purchase request" Value="Home"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Pages/Index.aspx" Text="List items" Value="Home">
+                            <asp:MenuItem NavigateUrl="~/Pages/Index.aspx" Text="Submit Pictures" Value="Submit Pictures"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Pages/Index.aspx" Text="Update personal details" Value="Home"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Pages/Index.aspx" Text="Purchases" Value="Purchases"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Pages/Index.aspx" Text="Sales" Value="Purchases"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Pages/Index.aspx" Text="Listed items" Value="Purchases"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            </div>
+            <div id="content">
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
